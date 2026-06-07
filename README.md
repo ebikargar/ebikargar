@@ -1,10 +1,8 @@
 <h1> Hi, I'm Ebrahim 👋 </h1>
 
-I build AI/ML platform products. Not demos — production systems that scale.
+I 
 
-The gap between AI strategy and AI in production is where most projects die. I've spent the last several years working in that gap: building the infrastructure, developer tooling, and governance that gets ML from notebook to live at scale.
-
-I lead AI/ML Platform at [Smartly](https://www.smartly.io) and co-founded [MimixLabs](https://mimixlabs.ai) — behavioral simulation for AI products, validated on 42M+ events.
+I lead AI Platform at [Smartly](https://www.smartly.io) and co-creator [MimixLabs](https://mimixlabs.ai) — Agentic user behavioral simulation platform. 
 
 **What I'm working on**
 
