@@ -10,11 +10,13 @@ I build for builders. I'm known for staying hands-on and close to product and ex
 
 **About Me**
 
-- Product Lead, AI Platform · [Smartly](https://www.smartly.io)
-- Co-Creator · [MimixLabs](https://mimixlabs.ai)
-- Product Lead, ML Platform ·  [HelloFresh](https://www.hellofresh.com/)
-- PM, API Platform · [Flixbus](https://www.flixbus.com)
-- Founder · IT Leaders (acquired 2012) · MSc Software Engineering, Politecnico di Torino
+- Product Lead, AI Platform @ [Smartly](https://www.smartly.io)
+- Co-Creator @ [MimixLabs](https://mimixlabs.ai)
+Previusly:
+- Product Lead, ML Platform @ [HelloFresh](https://www.hellofresh.com/)
+- PM, API Platform @ [Flixbus](https://www.flixbus.com)
+- Founder · IT Leaders (acquired 2012)
+- MSc Software Engineering, Politecnico di Torino, Italy
 
 ---
 
