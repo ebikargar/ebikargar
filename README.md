@@ -1,19 +1,19 @@
 <h1> Hi, I'm Ebrahim 👋 </h1>
 
-AI Platform @ [Smartly](https://www.smartly.io) · Co-creator of [MimixLabs](https://mimixlabs.ai)
+PM Lead for AI Platform @ [Smartly](https://www.smartly.io) · Co-creator of [MimixLabs](https://mimixlabs.ai)
 
 ---
 
-I build for builders.
+I build for builders. I'm known for staying hands-on and close to product and execution details, inspiring cross-functional teams toward a bold, shared vision, and championing ideas that are visionary and sometimes unconventional!!
 
-Known for staying hands-on and close to product and execution details, inspiring cross-functional teams toward a bold, shared vision, and championing ideas that are visionary and sometimes unconventional!!
 ---
 
 **About Me**
 
-- Product Lead, AI Platform · [Smartly](https://www.smartly.io) — agent orchestration, context & memory, LLM observability
-- Co-Creator · [MimixLabs](https://mimixlabs.ai) — agentic behavioral simulation: synthetic users, not surveys
-- Product Lead, ML Platform · HelloFresh — built the ML infra feeding personalization for millions of customers
+- Product Lead, AI Platform · [Smartly](https://www.smartly.io)
+- Co-Creator · [MimixLabs](https://mimixlabs.ai)
+- Product Lead, ML Platform · HelloFresh
+- PM, API Platform · Flixbus
 - Founder · IT Leaders (acquired 2012) · MSc Software Engineering, Politecnico di Torino
 
 ---
