@@ -23,7 +23,7 @@ Previously:
 
 **What I work on**
 
-`Agent systems` — orchestration · context & memory managment· tool/MCP/API action layers · observability & evals
+`Agent Harness` — orchestration · context & memory managment· tool/MCP/API action layers · observability & evals
 
 `Applied AI/ML` — supervised & unsupervised · contextual bandits · Bayesian & causal inference
 
