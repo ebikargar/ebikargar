@@ -1,6 +1,6 @@
 <h1> Hi, I'm Ebrahim 👋 </h1>
 
-PM Lead for AI Platform @ [Smartly](https://www.smartly.io) · Co-creator of [MimixLabs](https://mimixlabs.ai)
+Product Lead for AI Platform @ [Smartly](https://www.smartly.io) · Co-creator of [MimixLabs](https://mimixlabs.ai)
 
 ---
 
